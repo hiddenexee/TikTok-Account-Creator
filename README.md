@@ -13,7 +13,7 @@
 - Captcha Solver
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos Included
  
-# Contact
+# Contact:
 
 Discord: https://discord.com/users/1213658859185381387
 <br>
