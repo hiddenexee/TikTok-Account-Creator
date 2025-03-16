@@ -2,7 +2,8 @@
   <h1>♪ TikTok Account Creator (Mobil Api) - NEW UPDATE 16.03.2025</h1>
 </div>
 
-# NOTE Some scammers on Telegram are trying to scam you by getting anydesk registration, do not trust them. I only use the @hiddenexe telegram address.
+# NOTE
+Some scammers on Telegram are trying to scam you by getting anydesk registration, do not trust them. I only use the @hiddenexe telegram address.
 
 # Features:
 
