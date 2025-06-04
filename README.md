@@ -7,7 +7,7 @@ Some scammers on Telegram are trying to scam you by getting anydesk registration
 
 # Features:
 
-- Full Mobil Api
+- Full Mobil Api (1233)
 - Device Registration
 - No Third Party Apis
 - Full Requests
