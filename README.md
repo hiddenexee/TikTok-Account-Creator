@@ -7,6 +7,7 @@ Some scammers on Telegram are trying to scam you by getting anydesk registration
 
 # Usage:
 
+- register kopechka.com & create api key
 - pip install -r requirements.txt
 - Add api key to main.py & py main.py
 - enter thread count
