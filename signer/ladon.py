@@ -145,14 +145,3 @@ def ladon_encrypt(khronos, lc_id=1611921764, aid=1233, random_bytes=None):
     output[4:] = encrypt_ladon(md5hex.encode(), data.encode(), size)
 
     return base64.b64encode(bytes(output)).decode()
-
-def ladon_decrypt(encrypted_b64, aid=1233):
-    encrypted_data = base64.b64decode(encrypted_b64)
-    random_bytes = encrypted_data[:4]
-    encrypted_payload = encrypted_data[4:]
-
-    keygen = random_bytes + str(aid).encode()
-    md5hex = md5bytes(keygen)
-
-    decrypted = decrypt_ladon(md5hex.encode(), encrypted_payload, len(encrypted_payload))
-    return decrypted.hex()
