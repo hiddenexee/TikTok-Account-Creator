@@ -19,7 +19,6 @@ Some scammers on Telegram are trying to scam you by getting anydesk registration
 - No Third Party Apis
 - Full Requests
 - Need Proxies
-- High Quality Accounts (report)
 - Captcha Solver
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos Included
  
