@@ -35,7 +35,7 @@ class Config:
         "api19-normal-c-useast1a.musical.ly",
         "api.tiktokv.com"
     ]
-    COUNTRIES = ['au']
+    COUNTRIES = ['au', 'kz', 'co']
 
 @dataclass
 class Device:
