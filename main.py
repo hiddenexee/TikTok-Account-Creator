@@ -307,6 +307,6 @@ def main():
     creator.run(threads)
 
 if __name__ == '__main__':
-    kopechka_key = 'kp_2d5fb9119840674b3d74f1558bc2a03d76d33a60f07e244c5654b0090c08c0df' # https://www.kopechka.com/
+    kopechka_key = 'api_key' # https://www.kopechka.com/
     main()
 
