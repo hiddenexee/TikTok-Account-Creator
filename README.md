@@ -3,7 +3,7 @@
 </div>
 
 # NOTE
-Some scammers on Telegram are trying to scam you by getting anydesk registration, do not trust them. I only use the @hiddenexe telegram address.
+For a version that creates an account without email verification, please contact us. Telegram: @hiddenexe
 
 # Usage:
 
