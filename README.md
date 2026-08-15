@@ -3,7 +3,7 @@
 </div>
 
 # NOTE
-For a version that creates an account without email verification, please contact us. Telegram: @hiddenexe
+You can contact us for the web version. Telegram: @hiddenexe
 
 # Usage:
 
